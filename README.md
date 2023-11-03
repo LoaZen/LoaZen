@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LoanaWitch
 - 👀 I’m interested in 🖋️writing, 📖reading and of course... 🧙‍♀️SORCER... uh, ehm,  👩‍💻programming! 
-- 🌱 I’m currently learning Laravel, Vue.js, C# and 🔮Hogwarts enchantments. 
+- 🌱 I’m currently learning Laravel, REACT and 🔮Hogwarts enchantments. 
 - 📫 How to reach me: by telekinesis!
 
 <!---
